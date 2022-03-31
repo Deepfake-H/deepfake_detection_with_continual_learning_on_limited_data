@@ -11,7 +11,7 @@ Code used for [Towards generalizable DeepFake detection with continual learning 
 We propose an architecture-based generalization deepfake detection approach that combines spectral analysis and continual learning methods. We prove the proposed generalization approach can perform well when the model is updated with limited new data through extensive experiments on public datasets.
 
 Work architecture:
-![avatar](https://github.com/HollyhuangD/deepfake_detection_with_continual_learning_on_limited_data/pic/CL-proposal-network.png)
+![avatar](https://raw.githubusercontent.com/HollyhuangD/deepfake_detection_with_continual_learning_on_limited_data/main/pic/CL-proposal-network.png?token=GHSAT0AAAAAABTCQNBORG4E7Y52IDHFA4VQYSFUMGQ)
 
 
 
