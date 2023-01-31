@@ -66,3 +66,6 @@ You can replace the --loadmodel and --test_set
 python ./run.py --runtest True --loadmodel './model/VFHQ-F_fft_0_resnet_checkpoint_latest.pth' --test_set VFHQ ForenSynths
 ```
 Pre-trained models are provided ([Google Drive](https://drive.google.com/file/d/1lUveXB6YgiXGuyRrM8d_B5wAGkWLeORZ/view?usp=sharing)). Download and upzip to `model` folder.
+
+
+##If you need to use code, model or data, please cite the paper "Towards generalizable DeepFake detection with continual learning on limited data".
